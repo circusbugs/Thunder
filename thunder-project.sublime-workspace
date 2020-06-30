@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"RigidB",
+				"Rigidbody2D"
+			],
+			[
+				"grid-template",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"note",
+				"notes_x"
+			],
+			[
+				"selected",
+				"selected"
+			],
+			[
+				"tak",
+				"noteTaking"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"fill",
+				"fillWithArray"
+			],
+			[
+				"grid-te",
+				"grid-template-rows\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "using System.Collections;\nusing System.Collections.Generic;\nusing UnityEngine;\n\npublic class PlayerMovement : MonoBehaviour\n{\n\n\tpublic float speed; \n\tprivate Rigidbody2D myRigidBody;\n\n    // Start is called before the first frame update\n    void Start()\n    {\n        myRigidBody = GetComponent<Rigidbody2D>();\n        myRigidBody.\n        \n    }\n\n    // Update is called once per frame\n    void Update()\n    {\n        \n    }\n}\n",
+			"file": "Assets/Scripts/PlayerMovement.cs",
+			"file_size": 430,
+			"file_write_time": 132379482754044029,
+			"settings":
+			{
+				"buffer_size": 428,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thunder-project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 1614,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/ehunt/Documents/Unity Projects/thunder/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/C/Users/ehunt/Documents/SudokuSolver/sudokusolver/www/sudokusolver.js",
+		"/C/Users/ehunt/Documents/SudokuSolver/sudokusolver/www/startmenu.html",
+		"/C/Users/ehunt/Documents/SudokuSolver/sudokusolver/www/sudokusolver.html",
+		"/C/Users/ehunt/Documents/SudokuSolver/sudokusolver/sudokusolver.js",
+		"/C/Users/ehunt/Documents/SudokuSolver/sudokusolver/sudokusolver.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Documents",
+			"Unity Projects",
+			"Unity\\\\M",
+			"unity",
+			"Unity\\\\",
+			"unity\\\\",
+			"Unity\\\\",
+			"unity\\\\",
+			"Unity\\\\",
+			"Unity",
+			"C:",
+			"<path-to-Unity-folder>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/PlayerMovement.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "thunder-project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								693,
+								693
+							],
+							[
+								764,
+								764
+							],
+							[
+								835,
+								835
+							],
+							[
+								921,
+								921
+							],
+							[
+								1007,
+								1007
+							],
+							[
+								1088,
+								1088
+							],
+							[
+								1163,
+								1163
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 122.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "thunder-project.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
