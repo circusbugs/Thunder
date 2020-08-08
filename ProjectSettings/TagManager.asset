@@ -13,6 +13,8 @@ TagManager:
   - UI
   - 
   - 
+  - Ground
+  - Water
   - 
   - 
   - 
@@ -20,9 +22,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
+  - UI
   - 
   - 
   - 
